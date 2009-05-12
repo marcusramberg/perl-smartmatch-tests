@@ -27,3 +27,4 @@
 
 4.  Run: prove -e perl5.11.0
 
+5.  Add more tests specifically for the smartmatch operator.
