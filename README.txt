@@ -16,7 +16,7 @@
 
     $ git log | grep -c ea0c2dbd5f5ac6845ecc7ec6696415bf8e27bd52
 
-3.  Compile that perl.  RJBS does:
+3.  Compile that perl.  Something like:
 
       * ./Configure -de -Dusedevel
       * make -j2
