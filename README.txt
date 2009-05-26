@@ -7,9 +7,9 @@
 
     ...that may take a few minutes, the first time.
 
-2.  Check out the smartmatch branch.
+2.  Check out the blead branch.
 
-    $ git checkout -b smartmatch origin/smartmatch
+    $ git checkout -b blead origin/blead
 
     You should make sure you're pretty up to date.  This command, for example,
     should print 1:
